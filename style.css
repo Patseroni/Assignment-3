@@ -1,0 +1,18 @@
+h1{
+    font-size: 3em;
+    color: #33d;
+    margin-top: 100px;
+    font-family: arial;
+    text-align: center;
+
+}
+
+
+button{
+    display: block;
+    margin: 0 auto;
+    font-family: arial;
+    width: 120px;
+    height: 40px;
+    font-size: 15px;
+}
