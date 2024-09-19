@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 h1{
     font-size: 3em;
     color: #33d;
@@ -16,3 +17,23 @@ button{
     height: 40px;
     font-size: 15px;
 }
+=======
+h1{
+    font-size: 3em;
+    color: #33d;
+    margin-top: 100px;
+    font-family: arial;
+    text-align: center;
+
+}
+
+
+button{
+    display: block;
+    margin: 0 auto;
+    font-family: arial;
+    width: 120px;
+    height: 40px;
+    font-size: 15px;
+}
+>>>>>>> e5d1162d48077f11c8d79234d834a71d9d855442
